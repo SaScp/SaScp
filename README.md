@@ -1,4 +1,4 @@
-<diva align="center">
+<div align="center">
   <img src="https://helloworld.pt/wp-content/uploads/2023/01/hello-world.gif">
 </div>
 
