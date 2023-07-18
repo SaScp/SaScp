@@ -1,5 +1,5 @@
 <div>
-  <img src="https://media.tenor.com/TrabtJzhPTQAAAAM/hi-there.gif">
+  <img src="https://helloworld.pt/wp-content/uploads/2023/01/hello-world.gif">
 </div>
 
 
