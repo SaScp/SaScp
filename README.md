@@ -1,4 +1,7 @@
-### Hi there 👋
+<div>
+  <img src="https://media.tenor.com/TrabtJzhPTQAAAAM/hi-there.gif">
+</div>
+
 
 <!--
 **SaScp/SaScp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
