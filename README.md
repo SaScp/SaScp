@@ -2,7 +2,7 @@
     <img src="https://helloworld.pt/wp-content/uploads/2023/01/hello-world.gif">
 </div>
 <div>
-    <h2>                 ▶ⒽⒾ  ⒾⓂ  ⒶⓁⒺⓍⒶⓃⒹⒺⓇ◀               </h2>
+    <h2 align="center">▶ⒽⒾ  ⒾⓂ  ⒶⓁⒺⓍⒶⓃⒹⒺⓇ◀</h2>
 </div>
 <hr>
 <div>🔭 I'm Student at the Institute of Secondary Vocational Education at St. Petersburg Polytechnic University </div>
