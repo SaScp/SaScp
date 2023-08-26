@@ -5,8 +5,11 @@
     <h2>                 ▶ⒽⒾ  ⒾⓂ  ⒶⓁⒺⓍⒶⓃⒹⒺⓇ◀               </h2>
 </div>
 <hr>
+<div> 🎓 I'm Backend development </div>
+<br>
+
 <div>
-   ◅My Stack▻
+   <h2>🛠My Stack</h2>
     <ul>
         <li style="color:red">Java
         <span>
