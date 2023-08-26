@@ -6,7 +6,6 @@
 </div>
 <hr>
 <div>🔭 I'm Student at the Institute of Secondary Vocational Education at St. Petersburg Polytechnic University </div>
-<hr>
 <div> 🎓 I'm learning Backend development </div>
 <br>
 <div>
