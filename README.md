@@ -5,9 +5,10 @@
     <h2>                 ▶ⒽⒾ  ⒾⓂ  ⒶⓁⒺⓍⒶⓃⒹⒺⓇ◀               </h2>
 </div>
 <hr>
-<div> 🎓 I'm Backend development </div>
+<div>🔭 I'm Student at the Institute of Secondary Vocational Education at St. Petersburg Polytechnic University </div>
+<hr>
+<div> 🎓 I'm learning Backend development </div>
 <br>
-
 <div>
    <h2>🛠My Stack</h2>
     <ul>
