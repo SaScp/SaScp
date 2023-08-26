@@ -2,7 +2,7 @@
     <img src="https://i.pinimg.com/originals/24/b9/d5/24b9d5e364294517c859d6e7ebcee461.gif">
 </div>
 <div>
-    <h2 align="center">▶ⒽⒾ  ⒾⓂ  ⒶⓁⒺⓍⒶⓃⒹⒺⓇ◀</h2>
+    <h2>▶ⒽⒾ  ⒾⓂ  ⒶⓁⒺⓍⒶⓃⒹⒺⓇ◀</h2>
 </div>
 <hr>
 <div>🔭 I'm Student at the Institute of Secondary Vocational Education at St. Petersburg Polytechnic University </div>
