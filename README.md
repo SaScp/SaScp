@@ -20,8 +20,7 @@
         </li>
         <li style="color: red">Git
             <span>
-            <img width="20" height="20" src="https://github.com/SaScp/SaScp/assets/96395954/1878a204-331f-4899-9af1-33ebcf280d26
-">
+            <img width="20" height="20" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png">
             </span>
         </li>
         <li style="color: blue">
