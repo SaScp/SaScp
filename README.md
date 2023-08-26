@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://helloworld.pt/wp-content/uploads/2023/01/hello-world.gif">
+    <img src="https://i.pinimg.com/originals/24/b9/d5/24b9d5e364294517c859d6e7ebcee461.gif">
 </div>
 <div>
     <h2 align="center">▶ⒽⒾ  ⒾⓂ  ⒶⓁⒺⓍⒶⓃⒹⒺⓇ◀</h2>
@@ -9,7 +9,7 @@
 <div> 🎓 I'm learning Backend development </div>
 <br>
 <div>
-   <h2>🛠My Stack</h2>
+   <h2>🛠My language and tools</h2>
     <ul>
         <li style="color:red">Java
         <span>
