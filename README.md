@@ -2,11 +2,11 @@
     <img src="https://helloworld.pt/wp-content/uploads/2023/01/hello-world.gif">
 </div>
 <div>
-    <h2>Hi I'm Alexander </h2>
+    <h2>▶ⒽⒾ ⒾⓂ ⒶⓁⒺⓍⒶⓃⒹⒺⓇ◀</h2>
 </div>
 <hr>
 <div>
-    My Stack
+   ◅My Stack▻
     <ul>
         <li style="color:red">Java
         <span>
