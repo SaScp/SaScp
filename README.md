@@ -1,8 +1,5 @@
 <div align="center">
-    <img src="https://i.pinimg.com/originals/24/b9/d5/24b9d5e364294517c859d6e7ebcee461.gif">
-</div>
-<div>
-    <h2>▶Hi I'm Alexnader◀</h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=60&duration=4000&pause=200&color=B22222&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=▶Hi I'm+Alexander◀" width="100%" />
 </div>
 <hr>
 <div>🔭 I'm Student at the St. Petersburg Polytechnic University </div>
@@ -11,7 +8,7 @@
 <div>
    <h2>🛠My language and tools</h2>
     <ul>
-        <li style="color:red">Java
+        <li style="color:red">Java<
         <span>
             <img width="30" height="20" src="https://w7.pngwing.com/pngs/785/145/png-transparent-java-development-kit-software-development-kit-computer-programming-computer-icons-programming-language-icon-text-logo-computer-programming.png">
         </span>
