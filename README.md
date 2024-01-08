@@ -32,8 +32,16 @@
                 <img width="25" height="25" src="https://w7.pngwing.com/pngs/173/36/png-transparent-postgresql-logo-computer-software-database-open-source-s-text-head-snout.png">
             </span>
         </li>
+        <li style="color: blue">
+            MySQL
+            <span>
+                <img width="25" height="25" src="https://github.com/SaScp/SaScp/assets/96395954/b3584913-0fcb-4c35-a356-d55676f22f72">
+            </span>
+        </li>
     </ul>
 </div>
+<hr>
+ <img src = https://github-readme-stats.vercel.app/api?username=SaScp&theme=ambient_gradient&show_icons=true/>
 <!--
 **SaScp/SaScp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
