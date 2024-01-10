@@ -38,7 +38,7 @@
     </ul>
 </div>
 <hr>
- <img src = https://github-readme-stats.vercel.app/api?username=SaScp&theme=ambient_gradient&show_icons=true/>
+ <img src = https://github-readme-stats.vercel.app/api?username=SaScp&theme=ambient_gradient&show_icons=true&hiede_border=true/>
 <!--
 **SaScp/SaScp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
