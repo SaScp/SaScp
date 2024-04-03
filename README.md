@@ -18,6 +18,9 @@ Always open to collaborating on projects and good ideas for projects.
 ![Spring](https://img.shields.io/badge/-Spring-227d15?style=flat-square&logo=Spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-0d1117?style=flat-square&logo=Hibernate)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fbf9f9?style=flat-square&logo=MongoDB)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0d1117?style=flat-square&logo=RabbitMQ)
+![Apache Kafka](https://img.shields.io/badge/-ApacheKafka-0d1117?style=flat-square&logo=ApacheKafka)
+
 ## 🏆 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SaScp&theme=ambient_gradient&show_icons=true&hiede_border=true)
 ## 📊 Most used languages
