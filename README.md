@@ -21,6 +21,9 @@ Always open to collaborating on projects and good ideas for projects.
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0d1117?style=flat-square&logo=RabbitMQ)
 ![Apache Kafka](https://img.shields.io/badge/-ApacheKafka-0d1117?style=flat-square&logo=ApacheKafka)
 ![Nginx](https://img.shields.io/badge/-Nginx-227d15?style=flat-square&logo=Nginx)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-blue?style=flat-square&logo=Elasticsearch)
+
 
 ## 🏆 Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SaScp&theme=ambient_gradient&show_icons=true&hiede_border=true)
